@@ -34,6 +34,10 @@ body {
   place-items: center;
   min-width: 320px;
   min-height: 100vh;
+  background-image: url('https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWVlMGl4eHdwcXQzMnhzZTBhZGZwZHBrYWswYTNnZTczMmNxeGw2NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/SsTcO55LJDBsI/giphy.webp');
+  background-size: contain;
+  color: black;
+  font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 
 h1 {
